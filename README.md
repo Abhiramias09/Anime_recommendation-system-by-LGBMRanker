@@ -1,4 +1,5 @@
 #LGBMRanker
+
 This repository contains the code for an anime recommendation system using LightGBM, a powerful gradient boosting framework. The model is designed to predict and recommend anime titles to users based on their past interactions and the characteristics of the anime.
 
 Overview The goal of this project is to develop a machine learning model that can generate personalized anime recommendations for users. The system leverages LightGBM for ranking and uses a dataset comprising user interactions, anime metadata, and user information.
